@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneHorrorVR", "PhoneHorrorVR.csproj", "{07DCF0C8-50D1-F317-7CDC-518F083C037B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneHorrorVR.Editor", "PhoneHorrorVR.Editor.csproj", "{E05B7EB9-C921-54ED-8C01-3D6260B0C31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DCF0C8-50D1-F317-7CDC-518F083C037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DCF0C8-50D1-F317-7CDC-518F083C037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DCF0C8-50D1-F317-7CDC-518F083C037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DCF0C8-50D1-F317-7CDC-518F083C037B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05B7EB9-C921-54ED-8C01-3D6260B0C31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05B7EB9-C921-54ED-8C01-3D6260B0C31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05B7EB9-C921-54ED-8C01-3D6260B0C31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05B7EB9-C921-54ED-8C01-3D6260B0C31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
